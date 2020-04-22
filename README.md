@@ -29,11 +29,11 @@ For this configuration to work you need to have the following plugins installed 
 If you want to install all these packages in one go then you can use
 
 ```
-npm i --save-dev eslint eslint-config-airbnb eslint-config-prettier eslint-plugin-import eslint-plugin-jest eslint-plugin-a11y eslint-plugin-prettier eslint-plugin-react prettier
+npm i --save-dev eslint eslint-config-airbnb eslint-config-prettier eslint-plugin-import eslint-plugin-jest eslint-plugin-jsx-a11y eslint-plugin-prettier eslint-plugin-react prettier
 ```
 
 if you use yarn then
 
 ```
-yarn add eslint eslint-config-airbnb eslint-config-prettier eslint-plugin-import eslint-plugin-jest eslint-plugin-a11y eslint-plugin-prettier eslint-plugin-react prettier -D
+yarn add eslint eslint-config-airbnb eslint-config-prettier eslint-plugin-import eslint-plugin-jest eslint-plugin-jsx-a11y eslint-plugin-prettier eslint-plugin-react prettier -D
 ```
