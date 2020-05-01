@@ -26,15 +26,16 @@ For this configuration to work you need to have the following plugins installed 
 - [eslint-plugin-react-hooks](https://www.npmjs.com/package/eslint-plugin-react-hooks)
 - [eslint-plugin-react](https://www.npmjs.com/package/eslint-plugin-react)
 - [prettier](https://www.npmjs.com/package/prettier)
+- [babel-eslint](https://www.npmjs.com/package/babel-eslint)
 
 If you want to install all these packages in one go then you can use
 
 ```
-npm i --save-dev eslint eslint-config-airbnb eslint-config-prettier eslint-plugin-import eslint-plugin-jest eslint-plugin-jsx-a11y eslint-plugin-prettier eslint-plugin-react prettier eslint-plugin-react-hooks
+npm i --save-dev eslint eslint-config-airbnb eslint-config-prettier eslint-plugin-import eslint-plugin-jest eslint-plugin-jsx-a11y eslint-plugin-prettier eslint-plugin-react prettier eslint-plugin-react-hooks babel-eslint
 ```
 
 if you use yarn then
 
 ```
-yarn add eslint eslint-config-airbnb eslint-config-prettier eslint-plugin-import eslint-plugin-jest eslint-plugin-jsx-a11y eslint-plugin-prettier eslint-plugin-react prettier eslint-plugin-react-hooks -D
+yarn add eslint eslint-config-airbnb eslint-config-prettier eslint-plugin-import eslint-plugin-jest eslint-plugin-jsx-a11y eslint-plugin-prettier eslint-plugin-react prettier eslint-plugin-react-hooks babel-eslint -D
 ```
